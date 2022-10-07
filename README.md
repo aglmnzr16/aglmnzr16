@@ -85,7 +85,7 @@ Hi, I'm Agil Munzir!
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="mailto:jodgem12@gmail.com">contact me through email</a> me.
 
 You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/agil-munzir-50207924b/">LinkedIn</a> to deploy your machine learning project on web.
 
